@@ -35,7 +35,7 @@
 			"app/tests/TestCase.php"
 		],
 		"psr-0": {
-			"TaskMe": "app/"
+			
 		}
 	},
 
